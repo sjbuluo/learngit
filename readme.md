@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add merge.
 Fixed bug 101.
 Fixed bug 102.
+Stash by git.
